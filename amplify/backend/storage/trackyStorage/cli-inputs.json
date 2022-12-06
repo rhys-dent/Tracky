@@ -1,0 +1,14 @@
+{
+  "resourceName": "trackyStorage",
+  "policyUUID": "a3ee4077",
+  "bucketName": "tracky-storage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

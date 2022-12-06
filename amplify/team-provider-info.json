@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tracky-dev-234830-authRole",
+      "UnauthRoleArn": "arn:aws:iam::202541471298:role/amplify-tracky-dev-234830-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::202541471298:role/amplify-tracky-dev-234830-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-tracky-dev-234830-deployment",
+      "UnauthRoleName": "amplify-tracky-dev-234830-unauthRole",
+      "StackName": "amplify-tracky-dev-234830",
+      "StackId": "arn:aws:cloudformation:us-west-2:202541471298:stack/amplify-tracky-dev-234830/3c884ed0-7521-11ed-bbd0-0a2b8d25f20d",
+      "AmplifyAppId": "d31f395csphgdk"
+    },
+    "categories": {
+      "auth": {
+        "tracky97147d07": {}
+      },
+      "storage": {
+        "trackyStorage": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d31f395csphgdk",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
